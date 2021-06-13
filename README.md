@@ -1,4 +1,7 @@
 # saad تحلیل و طراحی سیستم مهندسی نرم افزار1
+
+پروژه تحلیل سامانه جامع تشخیص مسکن های خالی
+
 1. معرفی
 
 تعداد قابل ملاحظه ای خانه های خالی در شهر های ایران وجود دارد که مالکین این خانه ها تمایلی به
@@ -17,9 +20,5 @@
 سقوط قیمتی و ضرر شهروندان و مردمی که به تازگی ملکی خریده اند نباشیم.
 
 ما در این پروژه سعی کردیم نمودار های
-USECASE
-DATA FLOW DIAGRAM (DFD)
-ENTITY RELATIONSHIP DIAGRAM(ERD)
-ACTIVITY DIAGRAM
-CLASS DIAGRAM
-State Machine Diagram (SMD)
+
+USECASE - DATA FLOW DIAGRAM (DFD) - ENTITY RELATIONSHIP DIAGRAM(ERD) - ACTIVITY DIAGRAM - CLASS DIAGRAM - State Machine Diagram (SMD)
